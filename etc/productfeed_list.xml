@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="productfeed_list.xsd">
+    <productfeed_list>
+        <productfeed>
+            <feedname>google</feedname>
+            <feedpath>googlefeed.xml</feedpath>
+        </productfeed>
+        <productfeed>
+            <feedname>facebook</feedname>
+            <feedpath>facebook.xml</feedpath>
+        </productfeed>
+        <productfeed>
+            <feedname>google_shopping</feedname>
+            <feedpath>googleshopping_feed.xml</feedpath>
+        </productfeed>
+    </productfeed_list>
+</config>
